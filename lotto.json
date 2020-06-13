@@ -9,5 +9,15 @@
    "winnerId":54,
    "numbers":[52,3,12,11,18,22]
  }]
+}, {
+ "lottoId":6,
+ "winning-numbers":[2,3,4,5,6,7,8],
+ "winners":[{
+   "winnerId":61,
+   "numbers":[2,3,4,5,6,7,8]
+ },{
+   "winnerId":62,
+   "numbers":[2,3,4,5,6,7,8]
+ }]
 }
 }
